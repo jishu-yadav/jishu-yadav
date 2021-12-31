@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋  -->
 
 
-<!--
+
 **jishu-yadav/jishu-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <h1 align="center">Hi 👋, I'm Jishu Yadav</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jishu-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="jishu-yadav" /> </p> -->
