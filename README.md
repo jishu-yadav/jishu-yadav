@@ -1,11 +1,12 @@
 <!-- ### Hi there 👋  -->
 
-<h1 align="center">Hi 👋, I'm Jishu Yadav</h1>
+
 <!-- 
 **jishu-yadav/jishu-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-
+<!-- <h1 align="center">Hi 👋, I'm Jishu Yadav</h1> -->
+# Hi 👋, I'm Jishu Yadav
 - 🔭  I'm passionate about Software Development.
 - 🌱 I enjoy problem solving and working on real-world projects.
 - 👯 I’m looking to collaborate on Hackathons.
