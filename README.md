@@ -39,5 +39,5 @@ Here are some ideas to get you started: -->
 <a href="https://linkedin.com/in/jishu-yadav-642ba01a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jishu-yadav-642ba01a0" height="30" width="40" /></a>
 <a href="https://fb.com/jishu.yadav.503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jishu.yadav.503" height="30" width="40" /></a>
  <img src="https://camo.githubusercontent.com/14dfb11913f9363b463622e605f43bf75c1d001c9f1e6180b2edca14bd033481/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e676966"  width="200" 
-     height="260" align="centre"></img>
+     height="260" align="right"></img>
 </p>
